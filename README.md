@@ -1,2 +1,2 @@
 # CodeForces
-All my CodeForces algorithim solutions from back in High School!
+All my CodeForces algorithm solutions from back in High School!
